@@ -2,3 +2,10 @@
 @tailwind components;
 @tailwind utilities;
 
+.custam-img{
+         background-image: url(../../public/dontmiss/Imageb2.svg);                     
+}
+
+.dontmiss-img{
+            background-image: url(../../public/dontmiss/DontMiss.png);                  
+}
