@@ -1,6 +1,6 @@
-import Image from 'next/image'
+// import Image from 'next/image'
 import React from 'react'
-import Imageb2 from '../../public/dontmiss/Imageb2.svg'
+// import Imageb2 from '../../public/dontmiss/Imageb2.svg'
 function Featured() {
   return (
     <div className='mx-auto'>
